@@ -12,7 +12,7 @@
                 </b-form-group>
 
                 <b-form-group label="Password">
-                <b-form-input v-model="password" placeholder="Password"></b-form-input>
+                <b-form-input v-model="password" type="password" placeholder="Password"></b-form-input>
                 </b-form-group>
 
                 <b-form-group label="Firstname">
